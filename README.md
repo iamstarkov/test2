@@ -1,7 +1,8 @@
 # es-dep-unit
 
 [![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
+[![Unix Build Status][travis-image]][travis-url]
+[![Windows Build Status][appveyor-image]][appveyor-url]
 [![Coveralls Status][coveralls-image]][coveralls-url]
 [![Dependency Status][depstat-image]][depstat-url]
 
@@ -48,6 +49,9 @@ MIT © [Vladimir Starkov](https://iamstarkov.com)
 
 [travis-url]: https://travis-ci.org/iamstarkov/es-dep-unit
 [travis-image]: https://img.shields.io/travis/iamstarkov/es-dep-unit.svg?style=flat-square
+
+[appveyor-url]: https://ci.appveyor.com/project/iamstarkov/es-dep-unit
+[appveyor-image]: https://img.shields.io/appveyor/ci/iamstarkov/es-dep-unit.svg?style=flat-square
 
 [coveralls-url]: https://coveralls.io/r/iamstarkov/es-dep-unit
 [coveralls-image]: https://img.shields.io/coveralls/iamstarkov/es-dep-unit.svg?style=flat-square
