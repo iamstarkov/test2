@@ -1,7 +1,7 @@
 {
   "name": "es-dep-unit",
   "version": "0.0.0",
-  "description": "Constructor ECMAScript 2015+/CommonJS dependency unit `Object { requested, from, resolved }`",
+  "description": "Constructor for ECMAScript 2015+/CommonJS dependency unit `Object { requested, from, resolved }`",
   "main": "index.es5.js",
   "files": [
     "index.es5.js"

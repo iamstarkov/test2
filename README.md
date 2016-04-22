@@ -5,7 +5,7 @@
 [![Coveralls Status][coveralls-image]][coveralls-url]
 [![Dependency Status][depstat-image]][depstat-url]
 
-> Constructor ECMAScript 2015+/CommonJS dependency unit `Object { requested, from, resolved }`
+> Constructor for ECMAScript 2015+/CommonJS dependency unit `Object { requested, from, resolved }`
 
 ## Install
 
