@@ -1,3 +1,5 @@
+import Promise from 'pinkie-promise';
+
 export default function esDepUnit(input) {
   if (typeof input !== 'string') {
     return Promise.reject(
