@@ -48,10 +48,10 @@ MIT © [Vladimir Starkov](https://iamstarkov.com)
 [npm-image]: https://img.shields.io/npm/v/es-dep-unit.svg?style=flat-square
 
 [travis-url]: https://travis-ci.org/iamstarkov/es-dep-unit
-[travis-image]: https://img.shields.io/travis/iamstarkov/es-dep-unit.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/iamstarkov/es-dep-unit.svg?style=flat-square&label=unix
 
 [appveyor-url]: https://ci.appveyor.com/project/iamstarkov/es-dep-unit
-[appveyor-image]: https://img.shields.io/appveyor/ci/iamstarkov/es-dep-unit.svg?style=flat-square
+[appveyor-image]: https://img.shields.io/appveyor/ci/iamstarkov/es-dep-unit.svg?style=flat-square&label=windows
 
 [coveralls-url]: https://coveralls.io/r/iamstarkov/es-dep-unit
 [coveralls-image]: https://img.shields.io/coveralls/iamstarkov/es-dep-unit.svg?style=flat-square
