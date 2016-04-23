@@ -47,14 +47,14 @@ MIT © [Vladimir Starkov](https://iamstarkov.com)
 [npm-url]: https://npmjs.org/package/es-dep-unit
 [npm-image]: https://img.shields.io/npm/v/es-dep-unit.svg?style=flat-square
 
-[travis-url]: https://travis-ci.org/iamstarkov/es-dep-unit
-[travis-image]: https://img.shields.io/travis/iamstarkov/es-dep-unit.svg?style=flat-square&label=unix
+[travis-url]: https://travis-ci.org/iamstarkov/test2
+[travis-image]: https://img.shields.io/travis/iamstarkov/test2.svg?style=flat-square&label=unix
 
-[appveyor-url]: https://ci.appveyor.com/project/iamstarkov/es-dep-unit
-[appveyor-image]: https://img.shields.io/appveyor/ci/iamstarkov/es-dep-unit.svg?style=flat-square&label=windows
+[appveyor-url]: https://ci.appveyor.com/project/iamstarkov/test2
+[appveyor-image]: https://img.shields.io/appveyor/ci/iamstarkov/test2.svg?style=flat-square&label=windows
 
-[coveralls-url]: https://coveralls.io/r/iamstarkov/es-dep-unit
-[coveralls-image]: https://img.shields.io/coveralls/iamstarkov/es-dep-unit.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/iamstarkov/test2
+[coveralls-image]: https://img.shields.io/coveralls/iamstarkov/test2.svg?style=flat-square
 
-[depstat-url]: https://david-dm.org/iamstarkov/es-dep-unit
-[depstat-image]: https://david-dm.org/iamstarkov/es-dep-unit.svg?style=flat-square
+[depstat-url]: https://david-dm.org/iamstarkov/test2
+[depstat-image]: https://david-dm.org/iamstarkov/test2.svg?style=flat-square
